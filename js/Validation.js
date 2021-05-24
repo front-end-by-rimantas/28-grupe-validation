@@ -8,7 +8,7 @@ class Validation {
     }
 
     isValidEmail() {
-        return true;
+        return false;
     }
 
     isValidMessage() {
